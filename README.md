@@ -1,6 +1,7 @@
 # heroku-xray
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://www.vercel.com/deploy/button.png)](https://vercel.com/deploy)
 
 在 Heroku 上部署 [Xray VLESS-TCP-XTLS-WHATEVER](https://github.com/XTLS/Xray-examples/tree/main/VLESS-TCP-XTLS-WHATEVER)，实现 VLESS over TCP with XTLS + 回落 & 分流 to WHATEVER（终极配置）。
 
