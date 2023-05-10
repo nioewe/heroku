@@ -2,9 +2,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-
 在 Heroku 上部署 [Xray VLESS-TCP-XTLS-WHATEVER](https://github.com/XTLS/Xray-examples/tree/main/VLESS-TCP-XTLS-WHATEVER)，实现 VLESS over TCP with XTLS + 回落 & 分流 to WHATEVER（终极配置）。
-
 ---
 
 这里是 [进阶配置](https://github.com/XTLS/Xray-examples/tree/main/VLESS-TCP-TLS-WS%20(recommended)) 的超集，利用 VLESS 强大的回落分流特性，实现了 443 端口尽可能多的协议、配置的完美共存，包括 [XTLS Direct Mode](https://github.com/rprx/v2fly-github-io/blob/master/docs/config/protocols/vless.md#xtls-%E9%BB%91%E7%A7%91%E6%8A%80)
